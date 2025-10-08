@@ -3,8 +3,8 @@
 
 .container {
     margin: 0 auto;
-    width: 40%;
-    max-width: 600px;
+    width: 50%;
+    max-width: 900px;
 }
 
 body {
@@ -23,11 +23,25 @@ body {
 }
 
 
-.main img{
-width: 100%;
+.main h2{
+    font-size: 50px;
+}
+.main img {
+    width: 100%;
 }
 
-.main span{
-    margin: 10px 0;
+.main span {
+    margin: 25px 0;
     display: block;
+    line-height: 28px;
+}
+
+.main li {
+    margin: 17px 0;
+    line-height: 27px;
+}
+
+.main a{
+    text-decoration:underline 3px dotted red;
+    color: inherit;
 }
