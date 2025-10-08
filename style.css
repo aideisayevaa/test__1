@@ -4,7 +4,7 @@
 .container {
     margin: 0 auto;
     width: 40%;
-    max-width: 1400px;
+    max-width: 600px;
 }
 
 body {
@@ -23,3 +23,11 @@ body {
 }
 
 
+.main img{
+width: 100%;
+}
+
+.main span{
+    margin: 10px 0;
+    display: block;
+}
